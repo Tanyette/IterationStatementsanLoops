@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "iterationstatementsanloops/1.0.0": {
+        "runtime": {
+          "iterationstatementsanloops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iterationstatementsanloops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

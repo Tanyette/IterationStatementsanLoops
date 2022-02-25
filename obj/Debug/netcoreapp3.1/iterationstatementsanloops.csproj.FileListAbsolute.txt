@@ -1,0 +1,14 @@
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\obj\Debug\netcoreapp3.1\iterationstatementsanloops.csproj.AssemblyReference.cache
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\obj\Debug\netcoreapp3.1\iterationstatementsanloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\obj\Debug\netcoreapp3.1\iterationstatementsanloops.AssemblyInfoInputs.cache
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\obj\Debug\netcoreapp3.1\iterationstatementsanloops.AssemblyInfo.cs
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\obj\Debug\netcoreapp3.1\iterationstatementsanloops.csproj.CoreCompileInputs.cache
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\bin\Debug\netcoreapp3.1\iterationstatementsanloops.exe
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\bin\Debug\netcoreapp3.1\iterationstatementsanloops.deps.json
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\bin\Debug\netcoreapp3.1\iterationstatementsanloops.runtimeconfig.json
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\bin\Debug\netcoreapp3.1\iterationstatementsanloops.runtimeconfig.dev.json
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\bin\Debug\netcoreapp3.1\iterationstatementsanloops.dll
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\bin\Debug\netcoreapp3.1\iterationstatementsanloops.pdb
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\obj\Debug\netcoreapp3.1\iterationstatementsanloops.dll
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\obj\Debug\netcoreapp3.1\iterationstatementsanloops.pdb
+C:\Users\bwaff\repos\iterationstatementsanloops\iterationstatementsanloops\obj\Debug\netcoreapp3.1\iterationstatementsanloops.genruntimeconfig.cache
